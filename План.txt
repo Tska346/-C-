@@ -1,0 +1,9 @@
+Вот пара обучающих роликов будем работать по ним!
+https://vk.com/video-49657141_456239346
+https://yandex.ru/video/preview/13050462217699660520?text=Создание%20игры%20про%20лабиринт%20в%20c%2B%
+B&path=yandex_search&parent-reqid=1770875437882602-2947553112269323143-balancer-l7leveler-kubr-yp-sas-31-BAL&from_type=vast
+https://yandex.ru/video/preview/18446111456685919400?from_type=vast&parent-reqid=1770876441582190-6246894254768906619-balancer-l7leveler-kubr-yp-klg-262-BAL&path=yandex_search&text=Создание+игры+про+лабиринт+в+c%2B%2B
+Так же ссылки где подробно расписывается идея создания лабиринта!
+https://scienceforum.ru/2015/article/2015016839
+https://www.cyberforum.ru/cpp-beginners/thread2567990.html
+https://codereview.stackexchange.com/questions/224020/simple-console-maze-game
